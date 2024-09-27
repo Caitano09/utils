@@ -1,4 +1,4 @@
-## FORMATAR ARQUIVO WORK PARA BANCO DE DADOS
+FORMATAR HTML(WORD) PARA BANCO DE DADOS
 1. mudar enconding (UTF-* ou western ISO 8859-1) para acentos
 2. ctrl+h (replace)
 3. \n --- ''
@@ -7,7 +7,7 @@
 6.' ------ \'
 7. subistituir dados (cliente, representante cnpj)
 
-## GIT COMANDOS
+GIT COMANDOS
 1. git init
 2. git add README.md
 3. git commit -m "first commit"
