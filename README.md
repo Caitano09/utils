@@ -4,7 +4,7 @@ HTML(WORD)
 3. \n --- ''
 4. \t --- ' '
 5. '  ' --- ' ' (repeat until 0)
-6.' ------ \'
+6. ' ------ \'
 7. subistituir dados (cliente, representante cnpj)
 
 GIT
