@@ -34,3 +34,6 @@ CODIFICAÇÂO
 2. decode: Buffer.from("YTgzMDQ1MmY5ZmU3MDYyZjc3Zjk0NmE4MTZhNmJlZDc3MjQ3OTI5ZToxMjM=", 'base64').toString('utf8')
 -. obs: caso seja obj usar JSON.stringify(obj) no lugar do primeiro argumento
 
+Looker
+https://lookerstudio.google.com/u/0/navigation/reporting
+
