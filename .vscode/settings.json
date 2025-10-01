@@ -1,0 +1,16 @@
+{
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        // "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        // "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        // "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "eslint.format.enable": true,
+    "editor.formatOnSave": true,
+}
