@@ -35,5 +35,7 @@ CODIFICAÇÂO
 -. obs: caso seja obj usar JSON.stringify(obj) no lugar do primeiro argumento
 
 Looker
-https://lookerstudio.google.com/u/0/navigation/reporting
+-. https://lookerstudio.google.com/u/0/navigation/reporting
 
+Rodar o build app React
+-. serve -s build
