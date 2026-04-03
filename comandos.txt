@@ -41,5 +41,4 @@ Rodar o build app React
 -. serve -s build
 
 Rodar locolhost machine docker
-
 -. host.docker.internal
